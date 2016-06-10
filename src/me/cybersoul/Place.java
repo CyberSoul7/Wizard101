@@ -1,0 +1,9 @@
+package me.cybersoul;
+
+public enum Place {
+	UNICORNWAY,
+	TRITONAVENUE,
+	CYCLOPSLANE,
+	FIRECATALLEY,
+	COLOSSUSBOULEVARD;
+}
